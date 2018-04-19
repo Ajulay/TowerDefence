@@ -22,7 +22,7 @@ public class TowerDefence extends ApplicationAdapter {
     private boolean catchMstr2;
     private Vector2 tmpVector = new Vector2();
 
-//some change?
+
     @Override
     public void create() {
         batch = new SpriteBatch();
